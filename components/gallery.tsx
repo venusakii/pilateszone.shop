@@ -3,12 +3,12 @@
 import { useState } from "react"
 
 const images = [
-  "/pilates-pose-with-ring-in-bright-studio.jpg",
-  "/woman-stretching-on-pilates-mat.jpg",
-  "/pilates-ball-exercise-in-natural-light.jpg",
-  "/placeholder.svg?height=600&width=800",
-  "/placeholder.svg?height=600&width=800",
-  "/placeholder.svg?height=600&width=800",
+  "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop&auto=format&q=80",
+  "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=800&h=600&fit=crop&auto=format&q=80",
+  "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop&auto=format&q=80",
+  "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=600&fit=crop&auto=format&q=80",
+  "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&auto=format&q=80",
+  "https://images.unsplash.com/photo-1573590330099-d6c7355ec595?w=800&h=600&fit=crop&auto=format&q=80",
 ]
 
 export function Gallery() {

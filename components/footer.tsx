@@ -105,9 +105,7 @@ export function Footer() {
               </a>
             </div>
           </div>
-          <p className="text-center mt-4 text-xs text-muted-foreground text-pretty">
-            Amazon Associate Program participant. As an Amazon Associate, we earn from qualifying purchases.
-          </p>
+          
         </div>
       </div>
     </footer>
